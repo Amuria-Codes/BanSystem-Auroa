@@ -1,0 +1,15 @@
+name: BanSystem
+version: 2.8.1
+author: Tobi
+main: net.coalcube.bansystem.bungee.BanSystemBungee
+commands:
+  ban:
+  unban:
+  unmute:
+  bansystem:
+  bansys:
+  kick:
+  history:
+  check:
+  deletehistory:
+  delhistory:
